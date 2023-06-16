@@ -36,7 +36,7 @@ section {
     cursor: pointer;
     line-height: 100px;
     font-size: 60px;
-    background-image: url(main-img.jpg);
+    background-image: url(/img/main-img.jpg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
